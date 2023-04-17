@@ -1,0 +1,5 @@
+[
+  { "name": "id", "type": "INTEGER", "mode": "REQUIRED" },
+  { "name": "name", "type": "STRING", "mode": "REQUIRED" },
+  { "name": "email", "type": "STRING", "mode": "NULLABLE" }
+]
